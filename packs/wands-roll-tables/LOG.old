@@ -1,17 +1,7 @@
-2025/08/11-13:44:17.845 7a94 Log #31: 0 ops saved to Table #64 OK
-2025/08/11-13:44:17.846 7a94 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\wands-roll-tables/000031.log: OK
-2025/08/11-13:44:17.846 7a94 Log #33: 0 ops saved to Table #65 OK
-2025/08/11-13:44:17.847 7a94 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\wands-roll-tables/000033.log: OK
-2025/08/11-13:44:17.863 7a94 Log #54: 82 ops saved to Table #66 OK
-2025/08/11-13:44:17.864 7a94 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\wands-roll-tables/000054.log: OK
-2025/08/11-13:44:17.864 7a94 Log #63: 0 ops saved to Table #67 OK
-2025/08/11-13:44:17.865 7a94 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\wands-roll-tables/000063.log: OK
-2025/08/11-13:44:17.866 7a94 Table #9: 235 entries OK
-2025/08/11-13:44:17.882 7a94 Table #49: 30 entries OK
-2025/08/11-13:44:17.883 7a94 Table #56: 82 entries OK
-2025/08/11-13:44:17.883 7a94 Table #66: 82 entries OK
-2025/08/11-13:44:17.886 7a94 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\wands-roll-tables/MANIFEST-000030: OK
-2025/08/11-13:44:17.888 7a94 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\wands-roll-tables/MANIFEST-000032: OK
-2025/08/11-13:44:17.890 7a94 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\wands-roll-tables/MANIFEST-000053: OK
-2025/08/11-13:44:17.893 7a94 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\wands-roll-tables/MANIFEST-000062: OK
-2025/08/11-13:44:17.896 7a94 **** Repaired leveldb C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\wands-roll-tables; recovered 4 files; 82181 bytes. Some data may have been lost. ****
+2025/08/11-17:30:58.877 6ad8 Recovering log #107
+2025/08/11-17:30:58.881 6ad8 Delete type=0 #107
+2025/08/11-17:30:58.882 6ad8 Delete type=3 #105
+2025/08/11-17:31:51.869 68d4 Level-0 table #112: started
+2025/08/11-17:31:51.869 68d4 Level-0 table #112: 0 bytes OK
+2025/08/11-17:31:51.870 68d4 Delete type=0 #110
+2025/08/11-17:31:51.875 68d4 Manual compaction at level-0 from '!folders!1OYJ2ygxZ9or23lv' @ 72057594037927935 : 1 .. '!tables.results!yTAP6fE8aWEbiHwe.a5Q1ZA1T4RZ9DvYn' @ 0 : 0; will stop at (end)

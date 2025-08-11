@@ -1,16 +1,7 @@
-2025/08/11-13:44:17.580 5480 Log #31: 4 ops saved to Table #63 OK
-2025/08/11-13:44:17.582 5480 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\monsters-wands/000031.log: OK
-2025/08/11-13:44:17.583 5480 Log #34: 0 ops saved to Table #64 OK
-2025/08/11-13:44:17.583 5480 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\monsters-wands/000034.log: OK
-2025/08/11-13:44:17.583 5480 Log #54: 0 ops saved to Table #65 OK
-2025/08/11-13:44:17.585 5480 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\monsters-wands/000054.log: OK
-2025/08/11-13:44:17.585 5480 Log #62: 0 ops saved to Table #66 OK
-2025/08/11-13:44:17.586 5480 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\monsters-wands/000062.log: OK
-2025/08/11-13:44:17.592 5480 Table #9: 581 entries OK
-2025/08/11-13:44:17.594 5480 Table #33: 4 entries OK
-2025/08/11-13:44:17.594 5480 Table #63: 4 entries OK
-2025/08/11-13:44:17.597 5480 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\monsters-wands/MANIFEST-000030: OK
-2025/08/11-13:44:17.598 5480 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\monsters-wands/MANIFEST-000032: OK
-2025/08/11-13:44:17.599 5480 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\monsters-wands/MANIFEST-000053: OK
-2025/08/11-13:44:17.599 5480 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\monsters-wands/MANIFEST-000061: OK
-2025/08/11-13:44:17.602 5480 **** Repaired leveldb C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\monsters-wands; recovered 3 files; 560977 bytes. Some data may have been lost. ****
+2025/08/11-17:58:31.307 53b0 Recovering log #109
+2025/08/11-17:58:31.314 53b0 Delete type=0 #109
+2025/08/11-17:58:31.315 53b0 Delete type=3 #107
+2025/08/11-18:07:21.624 68d4 Level-0 table #114: started
+2025/08/11-18:07:21.624 68d4 Level-0 table #114: 0 bytes OK
+2025/08/11-18:07:21.625 68d4 Delete type=0 #112
+2025/08/11-18:07:21.627 68d4 Manual compaction at level-0 from '!actors!0281VedOqcjqPKNb' @ 72057594037927935 : 1 .. '!actors.items!zIsvbb2Wt2UI3xM0.m1b40a7qTZXNiBLw' @ 0 : 0; will stop at (end)

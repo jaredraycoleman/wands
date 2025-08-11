@@ -1,45 +1,73 @@
 Hooks.once("init", function () {
-  // Rename default skills for W&W
+  // ==== W&W config tweaks ====
   CONFIG.DND5E.skills["ani"] = { label: "WANDS.SkillAnimal" };     // Magical Creatures
   CONFIG.DND5E.skills["arc"] = { label: "WANDS.SkillArcana" };     // Magical Theory
   CONFIG.DND5E.skills["his"] = { label: "WANDS.SkillHistory" };    // Muggle Studies
   CONFIG.DND5E.skills["nat"] = { label: "WANDS.SkillHerbology" };  // Herbology
-  CONFIG.DND5E.skills["ptn"] = { label: "WANDS.SkillPotion", ability: "wis" }; // Potion Making (custom)
+  CONFIG.DND5E.skills["ptn"] = { label: "WANDS.SkillPotion", ability: "wis" }; // Potion Making
 
-  // Add custom spell schools
   CONFIG.DND5E.spellSchools["cha"] = { label: "WANDS.SchoolCharms" };
   CONFIG.DND5E.spellSchools["jhc"] = { label: "WANDS.SchoolJHC" };
   CONFIG.DND5E.spellSchools["trf"] = { label: "WANDS.SchoolTransfig" };
   CONFIG.DND5E.spellSchools["hea"] = { label: "WANDS.SchoolHealing" };
 
-  // Currency labels
   CONFIG.DND5E.currencies.pp.label = "Ruby";
   CONFIG.DND5E.currencies.gp.label = "Galleon";
   CONFIG.DND5E.currencies.sp.label = "Sickle";
   CONFIG.DND5E.currencies.cp.label = "Knut";
 
-  // Pick the best available base class (v5 default sheet if present)
-  const BaseCharSheet =
+  // ==== Sheet base (prefer the new v5 sheet if present) ====
+  const Base =
     dnd5e?.applications?.actor?.ActorSheet5eCharacter2 ??
     dnd5e?.applications?.actor?.ActorSheet5eCharacter;
 
-  // Helper to make a themed sheet class that just adds a CSS class
-  const makeTheme = (theme) =>
-    class extends BaseCharSheet {
-      static get defaultOptions() {
-        const opts = super.defaultOptions;
-        // ensure array exists (it does) then append our theme class
-        opts.classes.push(theme);
-        return opts;
-      }
-    };
+  if (!Base) {
+    console.warn("WANDS: could not locate a D&D5e character sheet base class.");
+    return;
+  }
+  const isV2 = "DEFAULT_OPTIONS" in Base;
+  const withThemeV2 = (theme) =>
+    foundry.utils.mergeObject(Base.DEFAULT_OPTIONS ?? {}, {
+      classes: [...(Base.DEFAULT_OPTIONS?.classes ?? []), theme]
+    });
 
-  // Register your themed character sheets
-  Actors.registerSheet("dnd5e", makeTheme("badger"),      { types: ["character"], makeDefault: false, label: "WANDS.Sheets.Badger" });
-  Actors.registerSheet("dnd5e", makeTheme("eagle"),       { types: ["character"], makeDefault: false, label: "WANDS.Sheets.Eagle" });
-  Actors.registerSheet("dnd5e", makeTheme("lion"),        { types: ["character"], makeDefault: false, label: "WANDS.Sheets.Lion" });
-  Actors.registerSheet("dnd5e", makeTheme("snake"),       { types: ["character"], makeDefault: false, label: "WANDS.Sheets.Snake" });
-  Actors.registerSheet("dnd5e", makeTheme("beauxbatons"), { types: ["character"], makeDefault: false, label: "WANDS.Sheets.Beauxbatons" });
-  Actors.registerSheet("dnd5e", makeTheme("ilvermorny"),  { types: ["character"], makeDefault: false, label: "WANDS.Sheets.Ilvermorny" });
-  Actors.registerSheet("dnd5e", makeTheme("durmstrang"),  { types: ["character"], makeDefault: false, label: "WANDS.Sheets.Durmstrang" });
+  // Helper to define a named class that works in both V2 and legacy
+  function makeNamedSheet(className, theme) {
+    // Define a named class by declaring it explicitly
+    // V2 sheet: set DEFAULT_OPTIONS; Legacy: override defaultOptions getter
+    // eslint-disable-next-line no-eval
+    const cls = eval(`
+      (class ${className} extends Base {
+        static get defaultOptions() {
+          if (${isV2}) return super.defaultOptions; // V2 ignores this
+          const opts = super.defaultOptions;
+          (opts.classes ??= []).push("${theme}");
+          return opts;
+        }
+        static {
+          if (${isV2}) this.DEFAULT_OPTIONS = (${withThemeV2.toString()})("${theme}");
+        }
+      })
+    `);
+    return cls;
+  }
+
+  // ==== Define seven uniquely-named sheet classes ====
+  const WandsBadgerSheet      = makeNamedSheet("WandsBadgerSheet",      "badger");
+  const WandsEagleSheet       = makeNamedSheet("WandsEagleSheet",       "eagle");
+  const WandsLionSheet        = makeNamedSheet("WandsLionSheet",        "lion");
+  const WandsSnakeSheet       = makeNamedSheet("WandsSnakeSheet",       "snake");
+  const WandsBeauxbatonsSheet = makeNamedSheet("WandsBeauxbatonsSheet", "beauxbatons");
+  const WandsIlvermornySheet  = makeNamedSheet("WandsIlvermornySheet",  "ilvermorny");
+  const WandsDurmstrangSheet  = makeNamedSheet("WandsDurmstrangSheet",  "durmstrang");
+
+  // ==== Register them ====
+  const opts = (label) => ({ types: ["character"], makeDefault: false, label });
+  Actors.registerSheet("dnd5e", WandsBadgerSheet,      opts("WANDS.Sheets.Badger"));
+  Actors.registerSheet("dnd5e", WandsEagleSheet,       opts("WANDS.Sheets.Eagle"));
+  Actors.registerSheet("dnd5e", WandsLionSheet,        opts("WANDS.Sheets.Lion"));
+  Actors.registerSheet("dnd5e", WandsSnakeSheet,       opts("WANDS.Sheets.Snake"));
+  Actors.registerSheet("dnd5e", WandsBeauxbatonsSheet, opts("WANDS.Sheets.Beauxbatons"));
+  Actors.registerSheet("dnd5e", WandsIlvermornySheet,  opts("WANDS.Sheets.Ilvermorny"));
+  Actors.registerSheet("dnd5e", WandsDurmstrangSheet,  opts("WANDS.Sheets.Durmstrang"));
 });

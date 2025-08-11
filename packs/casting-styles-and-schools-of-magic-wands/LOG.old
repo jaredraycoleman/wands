@@ -1,21 +1,7 @@
-2025/08/11-13:44:17.237 5480 Log #32: 33 ops saved to Table #78 OK
-2025/08/11-13:44:17.239 5480 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\casting-styles-and-schools-of-magic-wands/000032.log: OK
-2025/08/11-13:44:17.260 5480 Log #37: 8 ops saved to Table #79 OK
-2025/08/11-13:44:17.262 5480 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\casting-styles-and-schools-of-magic-wands/000037.log: OK
-2025/08/11-13:44:17.262 5480 Log #69: 0 ops saved to Table #80 OK
-2025/08/11-13:44:17.262 5480 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\casting-styles-and-schools-of-magic-wands/000069.log: OK
-2025/08/11-13:44:17.263 5480 Log #77: 0 ops saved to Table #81 OK
-2025/08/11-13:44:17.263 5480 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\casting-styles-and-schools-of-magic-wands/000077.log: OK
-2025/08/11-13:44:17.265 5480 Table #26: 10 entries OK
-2025/08/11-13:44:17.267 5480 Table #36: 10 entries OK
-2025/08/11-13:44:17.284 5480 Table #38: 133 entries OK
-2025/08/11-13:44:17.287 5480 Table #63: 10 entries OK
-2025/08/11-13:44:17.294 5480 Table #65: 63 entries OK
-2025/08/11-13:44:17.300 5480 Table #68: 135 entries OK
-2025/08/11-13:44:17.300 5480 Table #78: 33 entries OK
-2025/08/11-13:44:17.301 5480 Table #79: 8 entries OK
-2025/08/11-13:44:17.304 5480 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\casting-styles-and-schools-of-magic-wands/MANIFEST-000031: OK
-2025/08/11-13:44:17.305 5480 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\casting-styles-and-schools-of-magic-wands/MANIFEST-000033: OK
-2025/08/11-13:44:17.305 5480 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\casting-styles-and-schools-of-magic-wands/MANIFEST-000067: OK
-2025/08/11-13:44:17.306 5480 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\casting-styles-and-schools-of-magic-wands/MANIFEST-000076: OK
-2025/08/11-13:44:17.311 5480 **** Repaired leveldb C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\casting-styles-and-schools-of-magic-wands; recovered 8 files; 1655407 bytes. Some data may have been lost. ****
+2025/08/11-17:30:58.696 53b0 Recovering log #148
+2025/08/11-17:30:58.701 53b0 Delete type=0 #148
+2025/08/11-17:30:58.702 53b0 Delete type=3 #146
+2025/08/11-17:31:51.843 68d4 Level-0 table #153: started
+2025/08/11-17:31:51.843 68d4 Level-0 table #153: 0 bytes OK
+2025/08/11-17:31:51.843 68d4 Delete type=0 #151
+2025/08/11-17:31:51.845 68d4 Manual compaction at level-0 from '!folders!WlpvdaC2ZslNMvcf' @ 72057594037927935 : 1 .. '!items!zR5SEFVXzxkr4A5T' @ 0 : 0; will stop at (end)

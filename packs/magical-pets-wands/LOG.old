@@ -1,14 +1,7 @@
-2025/08/11-13:44:17.501 5f98 Log #31: 0 ops saved to Table #62 OK
-2025/08/11-13:44:17.502 5f98 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\magical-pets-wands/000031.log: OK
-2025/08/11-13:44:17.502 5f98 Log #33: 0 ops saved to Table #63 OK
-2025/08/11-13:44:17.503 5f98 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\magical-pets-wands/000033.log: OK
-2025/08/11-13:44:17.504 5f98 Log #53: 0 ops saved to Table #64 OK
-2025/08/11-13:44:17.504 5f98 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\magical-pets-wands/000053.log: OK
-2025/08/11-13:44:17.504 5f98 Log #61: 0 ops saved to Table #65 OK
-2025/08/11-13:44:17.505 5f98 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\magical-pets-wands/000061.log: OK
-2025/08/11-13:44:17.508 5f98 Table #9: 35 entries OK
-2025/08/11-13:44:17.512 5f98 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\magical-pets-wands/MANIFEST-000030: OK
-2025/08/11-13:44:17.514 5f98 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\magical-pets-wands/MANIFEST-000032: OK
-2025/08/11-13:44:17.515 5f98 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\magical-pets-wands/MANIFEST-000052: OK
-2025/08/11-13:44:17.517 5f98 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\magical-pets-wands/MANIFEST-000060: OK
-2025/08/11-13:44:17.522 5f98 **** Repaired leveldb C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\magical-pets-wands; recovered 1 files; 36313 bytes. Some data may have been lost. ****
+2025/08/11-17:30:58.787 53b0 Recovering log #104
+2025/08/11-17:30:58.793 53b0 Delete type=0 #104
+2025/08/11-17:30:58.793 53b0 Delete type=3 #102
+2025/08/11-17:31:51.844 68d4 Level-0 table #109: started
+2025/08/11-17:31:51.844 68d4 Level-0 table #109: 0 bytes OK
+2025/08/11-17:31:51.845 68d4 Delete type=0 #107
+2025/08/11-17:31:51.845 68d4 Manual compaction at level-0 from '!actors!1MJd62OuzDNSMEJS' @ 72057594037927935 : 1 .. '!actors.items!zRWP3bp43arGKnvV.R5PH09rRsPzJ3Oo9' @ 0 : 0; will stop at (end)
