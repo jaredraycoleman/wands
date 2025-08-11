@@ -1,3 +1,14 @@
-2024/03/01-11:00:50.147 39a0 Recovering log #57
-2024/03/01-11:00:50.156 39a0 Delete type=0 #57
-2024/03/01-11:00:50.156 39a0 Delete type=3 #56
+2025/08/11-13:44:17.804 5f98 Log #31: 0 ops saved to Table #62 OK
+2025/08/11-13:44:17.805 5f98 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\animagus-form-wands/000031.log: OK
+2025/08/11-13:44:17.805 5f98 Log #33: 0 ops saved to Table #63 OK
+2025/08/11-13:44:17.806 5f98 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\animagus-form-wands/000033.log: OK
+2025/08/11-13:44:17.807 5f98 Log #53: 0 ops saved to Table #64 OK
+2025/08/11-13:44:17.807 5f98 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\animagus-form-wands/000053.log: OK
+2025/08/11-13:44:17.807 5f98 Log #61: 0 ops saved to Table #65 OK
+2025/08/11-13:44:17.809 5f98 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\animagus-form-wands/000061.log: OK
+2025/08/11-13:44:17.812 5f98 Table #9: 20 entries OK
+2025/08/11-13:44:17.815 5f98 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\animagus-form-wands/MANIFEST-000030: OK
+2025/08/11-13:44:17.816 5f98 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\animagus-form-wands/MANIFEST-000032: OK
+2025/08/11-13:44:17.817 5f98 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\animagus-form-wands/MANIFEST-000052: OK
+2025/08/11-13:44:17.817 5f98 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\animagus-form-wands/MANIFEST-000060: OK
+2025/08/11-13:44:17.821 5f98 **** Repaired leveldb C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\animagus-form-wands; recovered 1 files; 21284 bytes. Some data may have been lost. ****

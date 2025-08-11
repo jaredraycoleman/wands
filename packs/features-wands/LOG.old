@@ -1,3 +1,13 @@
-2024/03/01-11:00:49.912 17ec Recovering log #30
-2024/03/01-11:00:49.925 17ec Delete type=0 #30
-2024/03/01-11:00:49.925 17ec Delete type=3 #29
+2025/08/11-13:44:17.055 7a94 Log #24: 4 ops saved to Table #35 OK
+2025/08/11-13:44:17.057 7a94 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\features-wands/000024.log: OK
+2025/08/11-13:44:17.057 7a94 Log #34: 0 ops saved to Table #36 OK
+2025/08/11-13:44:17.058 7a94 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\features-wands/000034.log: OK
+2025/08/11-13:44:17.061 7a94 Table #12: 155 entries OK
+2025/08/11-13:44:17.063 7a94 Table #14: 112 entries OK
+2025/08/11-13:44:17.076 7a94 Table #19: 1 entries OK
+2025/08/11-13:44:17.080 7a94 Table #25: 166 entries OK
+2025/08/11-13:44:17.097 7a94 Table #27: 4 entries OK
+2025/08/11-13:44:17.097 7a94 Table #35: 4 entries OK
+2025/08/11-13:44:17.101 7a94 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\features-wands/MANIFEST-000023: OK
+2025/08/11-13:44:17.102 7a94 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\features-wands/MANIFEST-000033: OK
+2025/08/11-13:44:17.108 7a94 **** Repaired leveldb C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\features-wands; recovered 6 files; 303450 bytes. Some data may have been lost. ****

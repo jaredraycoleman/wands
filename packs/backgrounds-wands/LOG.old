@@ -1,3 +1,9 @@
-2024/03/01-11:00:49.943 39a0 Recovering log #59
-2024/03/01-11:00:49.955 39a0 Delete type=0 #59
-2024/03/01-11:00:49.956 39a0 Delete type=3 #58
+2025/08/11-13:44:17.162 74ac Log #55: 0 ops saved to Table #64 OK
+2025/08/11-13:44:17.162 74ac Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\backgrounds-wands/000055.log: OK
+2025/08/11-13:44:17.162 74ac Log #63: 0 ops saved to Table #65 OK
+2025/08/11-13:44:17.163 74ac Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\backgrounds-wands/000063.log: OK
+2025/08/11-13:44:17.165 74ac Table #26: 29 entries OK
+2025/08/11-13:44:17.167 74ac Table #50: 70 entries OK
+2025/08/11-13:44:17.169 74ac Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\backgrounds-wands/MANIFEST-000054: OK
+2025/08/11-13:44:17.170 74ac Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\backgrounds-wands/MANIFEST-000062: OK
+2025/08/11-13:44:17.176 74ac **** Repaired leveldb C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\backgrounds-wands; recovered 2 files; 91329 bytes. Some data may have been lost. ****

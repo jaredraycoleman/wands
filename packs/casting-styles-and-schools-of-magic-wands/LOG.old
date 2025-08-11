@@ -1,3 +1,21 @@
-2024/03/01-11:00:49.968 17ec Recovering log #73
-2024/03/01-11:00:49.981 17ec Delete type=0 #73
-2024/03/01-11:00:49.981 17ec Delete type=3 #72
+2025/08/11-13:44:17.237 5480 Log #32: 33 ops saved to Table #78 OK
+2025/08/11-13:44:17.239 5480 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\casting-styles-and-schools-of-magic-wands/000032.log: OK
+2025/08/11-13:44:17.260 5480 Log #37: 8 ops saved to Table #79 OK
+2025/08/11-13:44:17.262 5480 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\casting-styles-and-schools-of-magic-wands/000037.log: OK
+2025/08/11-13:44:17.262 5480 Log #69: 0 ops saved to Table #80 OK
+2025/08/11-13:44:17.262 5480 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\casting-styles-and-schools-of-magic-wands/000069.log: OK
+2025/08/11-13:44:17.263 5480 Log #77: 0 ops saved to Table #81 OK
+2025/08/11-13:44:17.263 5480 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\casting-styles-and-schools-of-magic-wands/000077.log: OK
+2025/08/11-13:44:17.265 5480 Table #26: 10 entries OK
+2025/08/11-13:44:17.267 5480 Table #36: 10 entries OK
+2025/08/11-13:44:17.284 5480 Table #38: 133 entries OK
+2025/08/11-13:44:17.287 5480 Table #63: 10 entries OK
+2025/08/11-13:44:17.294 5480 Table #65: 63 entries OK
+2025/08/11-13:44:17.300 5480 Table #68: 135 entries OK
+2025/08/11-13:44:17.300 5480 Table #78: 33 entries OK
+2025/08/11-13:44:17.301 5480 Table #79: 8 entries OK
+2025/08/11-13:44:17.304 5480 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\casting-styles-and-schools-of-magic-wands/MANIFEST-000031: OK
+2025/08/11-13:44:17.305 5480 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\casting-styles-and-schools-of-magic-wands/MANIFEST-000033: OK
+2025/08/11-13:44:17.305 5480 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\casting-styles-and-schools-of-magic-wands/MANIFEST-000067: OK
+2025/08/11-13:44:17.306 5480 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\casting-styles-and-schools-of-magic-wands/MANIFEST-000076: OK
+2025/08/11-13:44:17.311 5480 **** Repaired leveldb C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\casting-styles-and-schools-of-magic-wands; recovered 8 files; 1655407 bytes. Some data may have been lost. ****

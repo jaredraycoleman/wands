@@ -1,3 +1,9 @@
-2024/03/01-11:39:32.160 8dc Recovering log #61
-2024/03/01-11:39:32.174 8dc Delete type=0 #61
-2024/03/01-11:39:32.174 8dc Delete type=3 #60
+2025/08/11-13:44:17.398 5f98 Delete type=3 #1
+2025/08/11-13:44:17.398 a3b4 Compacting 4@0 + 0@1 files
+2025/08/11-13:44:17.405 a3b4 Generated table #70@0: 10 keys, 19955 bytes
+2025/08/11-13:44:17.405 a3b4 Compacted 4@0 + 0@1 files => 19955 bytes
+2025/08/11-13:44:17.407 a3b4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/08/11-13:44:17.408 a3b4 Delete type=2 #9
+2025/08/11-13:44:17.408 a3b4 Delete type=2 #35
+2025/08/11-13:44:17.410 a3b4 Delete type=2 #46
+2025/08/11-13:44:17.410 a3b4 Delete type=2 #65

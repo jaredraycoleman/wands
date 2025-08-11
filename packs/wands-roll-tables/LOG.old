@@ -1,3 +1,17 @@
-2024/03/01-11:00:50.165 17ec Recovering log #59
-2024/03/01-11:00:50.173 17ec Delete type=0 #59
-2024/03/01-11:00:50.173 17ec Delete type=3 #58
+2025/08/11-13:44:17.845 7a94 Log #31: 0 ops saved to Table #64 OK
+2025/08/11-13:44:17.846 7a94 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\wands-roll-tables/000031.log: OK
+2025/08/11-13:44:17.846 7a94 Log #33: 0 ops saved to Table #65 OK
+2025/08/11-13:44:17.847 7a94 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\wands-roll-tables/000033.log: OK
+2025/08/11-13:44:17.863 7a94 Log #54: 82 ops saved to Table #66 OK
+2025/08/11-13:44:17.864 7a94 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\wands-roll-tables/000054.log: OK
+2025/08/11-13:44:17.864 7a94 Log #63: 0 ops saved to Table #67 OK
+2025/08/11-13:44:17.865 7a94 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\wands-roll-tables/000063.log: OK
+2025/08/11-13:44:17.866 7a94 Table #9: 235 entries OK
+2025/08/11-13:44:17.882 7a94 Table #49: 30 entries OK
+2025/08/11-13:44:17.883 7a94 Table #56: 82 entries OK
+2025/08/11-13:44:17.883 7a94 Table #66: 82 entries OK
+2025/08/11-13:44:17.886 7a94 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\wands-roll-tables/MANIFEST-000030: OK
+2025/08/11-13:44:17.888 7a94 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\wands-roll-tables/MANIFEST-000032: OK
+2025/08/11-13:44:17.890 7a94 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\wands-roll-tables/MANIFEST-000053: OK
+2025/08/11-13:44:17.893 7a94 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\wands-roll-tables/MANIFEST-000062: OK
+2025/08/11-13:44:17.896 7a94 **** Repaired leveldb C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\wands-roll-tables; recovered 4 files; 82181 bytes. Some data may have been lost. ****

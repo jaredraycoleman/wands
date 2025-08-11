@@ -1,3 +1,17 @@
-2024/03/01-11:00:50.000 39a0 Recovering log #59
-2024/03/01-11:00:50.014 39a0 Delete type=0 #59
-2024/03/01-11:00:50.014 39a0 Delete type=3 #58
+2025/08/11-13:44:17.346 5f98 Log #31: 0 ops saved to Table #64 OK
+2025/08/11-13:44:17.347 5f98 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\houses-wands/000031.log: OK
+2025/08/11-13:44:17.369 5f98 Log #33: 55 ops saved to Table #65 OK
+2025/08/11-13:44:17.370 5f98 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\houses-wands/000033.log: OK
+2025/08/11-13:44:17.370 5f98 Log #55: 0 ops saved to Table #66 OK
+2025/08/11-13:44:17.371 5f98 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\houses-wands/000055.log: OK
+2025/08/11-13:44:17.371 5f98 Log #63: 0 ops saved to Table #67 OK
+2025/08/11-13:44:17.372 5f98 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\houses-wands/000063.log: OK
+2025/08/11-13:44:17.375 5f98 Table #9: 10 entries OK
+2025/08/11-13:44:17.378 5f98 Table #35: 55 entries OK
+2025/08/11-13:44:17.380 5f98 Table #46: 42 entries OK
+2025/08/11-13:44:17.380 5f98 Table #65: 55 entries OK
+2025/08/11-13:44:17.383 5f98 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\houses-wands/MANIFEST-000030: OK
+2025/08/11-13:44:17.385 5f98 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\houses-wands/MANIFEST-000032: OK
+2025/08/11-13:44:17.386 5f98 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\houses-wands/MANIFEST-000054: OK
+2025/08/11-13:44:17.386 5f98 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\houses-wands/MANIFEST-000062: OK
+2025/08/11-13:44:17.390 5f98 **** Repaired leveldb C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\houses-wands; recovered 4 files; 219472 bytes. Some data may have been lost. ****

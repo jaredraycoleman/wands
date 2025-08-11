@@ -1,3 +1,14 @@
-2024/03/01-11:00:50.054 39a0 Recovering log #57
-2024/03/01-11:00:50.067 39a0 Delete type=0 #57
-2024/03/01-11:00:50.067 39a0 Delete type=3 #56
+2025/08/11-13:44:17.501 5f98 Log #31: 0 ops saved to Table #62 OK
+2025/08/11-13:44:17.502 5f98 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\magical-pets-wands/000031.log: OK
+2025/08/11-13:44:17.502 5f98 Log #33: 0 ops saved to Table #63 OK
+2025/08/11-13:44:17.503 5f98 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\magical-pets-wands/000033.log: OK
+2025/08/11-13:44:17.504 5f98 Log #53: 0 ops saved to Table #64 OK
+2025/08/11-13:44:17.504 5f98 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\magical-pets-wands/000053.log: OK
+2025/08/11-13:44:17.504 5f98 Log #61: 0 ops saved to Table #65 OK
+2025/08/11-13:44:17.505 5f98 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\magical-pets-wands/000061.log: OK
+2025/08/11-13:44:17.508 5f98 Table #9: 35 entries OK
+2025/08/11-13:44:17.512 5f98 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\magical-pets-wands/MANIFEST-000030: OK
+2025/08/11-13:44:17.514 5f98 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\magical-pets-wands/MANIFEST-000032: OK
+2025/08/11-13:44:17.515 5f98 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\magical-pets-wands/MANIFEST-000052: OK
+2025/08/11-13:44:17.517 5f98 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\magical-pets-wands/MANIFEST-000060: OK
+2025/08/11-13:44:17.522 5f98 **** Repaired leveldb C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\magical-pets-wands; recovered 1 files; 36313 bytes. Some data may have been lost. ****

@@ -1,3 +1,11 @@
-2024/03/01-11:39:32.105 4eac Recovering log #32
-2024/03/01-11:39:32.118 4eac Delete type=0 #32
-2024/03/01-11:39:32.118 4eac Delete type=3 #31
+2025/08/11-13:44:17.125 7a94 Delete type=3 #1
+2025/08/11-13:44:17.129 a3b4 Compacting 6@0 + 0@1 files
+2025/08/11-13:44:17.140 a3b4 Generated table #39@0: 166 keys, 126873 bytes
+2025/08/11-13:44:17.140 a3b4 Compacted 6@0 + 0@1 files => 126873 bytes
+2025/08/11-13:44:17.141 a3b4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/08/11-13:44:17.143 a3b4 Delete type=2 #12
+2025/08/11-13:44:17.143 a3b4 Delete type=2 #14
+2025/08/11-13:44:17.144 a3b4 Delete type=2 #19
+2025/08/11-13:44:17.144 a3b4 Delete type=2 #25
+2025/08/11-13:44:17.145 a3b4 Delete type=2 #27
+2025/08/11-13:44:17.145 a3b4 Delete type=2 #35

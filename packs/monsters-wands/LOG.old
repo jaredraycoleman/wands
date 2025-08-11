@@ -1,3 +1,16 @@
-2024/03/01-11:00:50.078 17ec Recovering log #58
-2024/03/01-11:00:50.088 17ec Delete type=0 #58
-2024/03/01-11:00:50.088 17ec Delete type=3 #57
+2025/08/11-13:44:17.580 5480 Log #31: 4 ops saved to Table #63 OK
+2025/08/11-13:44:17.582 5480 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\monsters-wands/000031.log: OK
+2025/08/11-13:44:17.583 5480 Log #34: 0 ops saved to Table #64 OK
+2025/08/11-13:44:17.583 5480 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\monsters-wands/000034.log: OK
+2025/08/11-13:44:17.583 5480 Log #54: 0 ops saved to Table #65 OK
+2025/08/11-13:44:17.585 5480 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\monsters-wands/000054.log: OK
+2025/08/11-13:44:17.585 5480 Log #62: 0 ops saved to Table #66 OK
+2025/08/11-13:44:17.586 5480 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\monsters-wands/000062.log: OK
+2025/08/11-13:44:17.592 5480 Table #9: 581 entries OK
+2025/08/11-13:44:17.594 5480 Table #33: 4 entries OK
+2025/08/11-13:44:17.594 5480 Table #63: 4 entries OK
+2025/08/11-13:44:17.597 5480 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\monsters-wands/MANIFEST-000030: OK
+2025/08/11-13:44:17.598 5480 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\monsters-wands/MANIFEST-000032: OK
+2025/08/11-13:44:17.599 5480 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\monsters-wands/MANIFEST-000053: OK
+2025/08/11-13:44:17.599 5480 Archiving C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\monsters-wands/MANIFEST-000061: OK
+2025/08/11-13:44:17.602 5480 **** Repaired leveldb C:\Users\jcolem27\AppData\Local\FoundryVTT\Data\modules\wands\packs\monsters-wands; recovered 3 files; 560977 bytes. Some data may have been lost. ****
