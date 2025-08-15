@@ -1,3 +1,7 @@
-2025/08/11-18:18:31.550 8f30 Recovering log #122
-2025/08/11-18:18:31.563 8f30 Delete type=0 #122
-2025/08/11-18:18:31.563 8f30 Delete type=3 #120
+2025/08/15-19:46:03.688 61f0 Recovering log #128
+2025/08/15-19:46:03.692 61f0 Delete type=0 #128
+2025/08/15-19:46:03.693 61f0 Delete type=3 #127
+2025/08/15-19:51:40.832 6c14 Level-0 table #132: started
+2025/08/15-19:51:40.832 6c14 Level-0 table #132: 0 bytes OK
+2025/08/15-19:51:40.836 6c14 Delete type=0 #130
+2025/08/15-19:51:40.872 6c14 Manual compaction at level-0 from '!actors!1MJd62OuzDNSMEJS' @ 72057594037927935 : 1 .. '!actors.items!zRWP3bp43arGKnvV.R5PH09rRsPzJ3Oo9' @ 0 : 0; will stop at (end)

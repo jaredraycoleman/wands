@@ -1,10 +1,10 @@
 Hooks.once("init", function () {
   // ==== W&W config tweaks ====
-  CONFIG.DND5E.skills["ani"] = { label: "WANDS.SkillAnimal" };     // Magical Creatures
-  CONFIG.DND5E.skills["arc"] = { label: "WANDS.SkillArcana" };     // Magical Theory
-  CONFIG.DND5E.skills["his"] = { label: "WANDS.SkillHistory" };    // Muggle Studies
-  CONFIG.DND5E.skills["nat"] = { label: "WANDS.SkillHerbology" };  // Herbology
-  CONFIG.DND5E.skills["ptn"] = { label: "WANDS.SkillPotion", ability: "wis" }; // Potion Making
+  CONFIG.DND5E.skills["ani"] = { label: "WANDS.SkillAnimal", ability: "wis" };     // Magical Creatures
+  CONFIG.DND5E.skills["arc"] = { label: "WANDS.SkillArcana", ability: "int" };     // Magical Theory
+  CONFIG.DND5E.skills["his"] = { label: "WANDS.SkillHistory", ability: "int" };    // Muggle Studies
+  CONFIG.DND5E.skills["nat"] = { label: "WANDS.SkillHerbology", ability: "int" };  // Herbology
+  CONFIG.DND5E.skills["ptn"] = { label: "WANDS.SkillPotion", ability: "wis" };     // Potion Making
 
   CONFIG.DND5E.spellSchools["cha"] = { label: "WANDS.SchoolCharms" };
   CONFIG.DND5E.spellSchools["jhc"] = { label: "WANDS.SchoolJHC" };
