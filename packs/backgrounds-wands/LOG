@@ -1,3 +1,7 @@
-2025/08/16-10:33:44.601 4a1c Recovering log #144
-2025/08/16-10:33:44.606 4a1c Delete type=0 #144
-2025/08/16-10:33:44.606 4a1c Delete type=3 #142
+2025/08/16-11:26:28.443 4a1c Recovering log #162
+2025/08/16-11:26:28.453 4a1c Delete type=0 #162
+2025/08/16-11:26:28.453 4a1c Delete type=3 #160
+2025/08/16-11:42:19.912 6c14 Level-0 table #167: started
+2025/08/16-11:42:19.920 6c14 Level-0 table #167: 0 bytes OK
+2025/08/16-11:42:19.920 6c14 Delete type=0 #165
+2025/08/16-11:42:19.920 6c14 Manual compaction at level-0 from '!folders!PAI7mx5WeyvumTAc' @ 72057594037927935 : 1 .. '!items!zLix4G4HPiLH7nGO' @ 0 : 0; will stop at (end)
