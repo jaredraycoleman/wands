@@ -5,10 +5,11 @@
   "description": "Compendium packs for all things Wands & Wizards",
   "authors": [
     { "name": "MadManNBlueBox" },
+    { "name": "Sparkcity" },
     { "name": "jaredraycoleman" }
   ],
-  "url": "https://github.com/MadManNBlueBox/wands",
-  "readme": "https://github.com/MadManNBlueBox/wands/blob/master/README.md",
+  "url": "https://github.com/jaredraycoleman/wands",
+  "readme": "https://github.com/jaredraycoleman/wands/blob/master/README.md",
   "flags": {},
   "version": "0.12.0",
   "compatibility": {
@@ -62,8 +63,8 @@
     }
   ],
   "socket": false,
-  "manifest": "https://github.com/MadManNBlueBox/wands/releases/download/0.12.0/module.json",
-  "download": "https://github.com/MadManNBlueBox/wands/releases/download/0.12.0/module.zip",
+  "manifest": "https://github.com/jaredraycoleman/wands/releases/download/0.12.0/module.json",
+  "download": "https://github.com/jaredraycoleman/wands/releases/download/0.12.0/module.zip",
   "protected": false,
   "coreTranslation": false,
   "library": false
